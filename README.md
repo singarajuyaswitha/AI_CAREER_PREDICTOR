@@ -68,8 +68,9 @@ streamlit run app.py
 ---
 
 ## 👩‍💻 Author
+## 👩‍💻 Author
 Singaraju Yaswitha  
 B.Tech – Artificial Intelligence & Data Science  
 
-GitHub: (add your link)  
-LinkedIn: (add your link)
+GitHub: https://github.com/singarajuyaswitha  
+LinkedIn: https://linkedin.com/in/singaraju-yaswitha-62785a372
