@@ -66,8 +66,6 @@ streamlit run app.py
 - User login system  
 
 ---
-
-## 👩‍💻 Author
 ## 👩‍💻 Author
 Singaraju Yaswitha  
 B.Tech – Artificial Intelligence & Data Science  
